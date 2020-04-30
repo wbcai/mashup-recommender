@@ -1,0 +1,26 @@
+model,track_x,track_y,dist,bpm_inc,key_x,mode_x,instrumentalness_x,speechiness_x,key_y,mode_y,instrumentalness_y,speechiness_y,compatibility,djay_x,djay_y,high_bpm_inc
+Random,Flume - You & Me.mp3,ODESZA - Say My Name (feat. Zyra).mp3,0.156159492,0.304933593,10,0,0.000114,0.0257,6,0,0.395,0.0479,0,Db,A,1
+Random,Kanye West - Fade.mp3,Ginuwine - Pony.mp3,0.081211893,0.339874337,9,0,0,0.0908,8,0,0.0381,0.086,0,F,B,1
+Random,Shiba San - Okay.mp3,The xx - Lips (Edu Imbernon Remix).mp3,0.273709986,0.060573665,2,1,0.866,0.0414,6,0,0.76,0.0791,0,C,B,0
+Random,Vince Staples - So What.mp3,Flume - Never Be Like You (Disclosure Remix).mp3,0.114697173,0.217170623,2,1,5.08E-06,0.0519,2,1,0.000925,0.23,1,G,D,1
+Random,Schoolboy Q - 5200.mp3,Flume - Never Be Like You (Disclosure Remix).mp3,0.113927722,0.066725563,4,1,0,0.413,2,1,0.000925,0.23,1,G,D,0
+Random,George Fitzgerald - Burns.mp3,Denzel Curry - SPEEDBOAT.mp3,0.200853484,0.033094209,2,1,0.932,0.036,6,1,0,0.131,0,Gb,D,0
+Random,Vince Staples - So What.mp3,Skrillex - Mumbai Power.mp3,0.091773219,0.0420261,2,1,5.08E-06,0.0519,8,1,0.284,0.0464,0,G,Eb,0
+Random,Beyoncé - Drunk in Love.mp3,Galantis - Runaway (U&I).mp3,0.065601617,0.111278649,5,0,0.00104,0.0468,1,1,0.00193,0.0469,0,Ab,Db,1
+Random,Dillon Francis - Masta Blasta (THE REBIRTH).mp3,Dusky - Perth Remix.mp3,0.053917666,0.159965119,7,1,0.119,0.414,10,1,0.903,0.0571,1,G,Eb,1
+Random,Skrillex - Face My Fears.m4a,Porter Robinson - Easy.m4a,0.185415705,0.249843735,1,0,0,0.0991,2,1,0,0.0426,0,D,E,1
+Random,Meek Mill - Going Bad.mp3,Marvin Gaye - Sexual Healing (Kygo Remix).mp3,0.199232793,0.17422648,4,0,0,0.0905,0,0,0.0211,0.0427,0,D,Eb,1
+Random,Snoop Dogg - Drop It LIke It's Hot (DEL30 remix).wav,The xx - Lips (Edu Imbernon Remix).mp3,0.065310911,0.060831228,1,1,0,0.219,6,0,0.76,0.0791,0,C,B,0
+Random,Linkin Park - In The End.mp3,Justin Bieber - Yummy (Dance remix).wav,0.182586798,0.170281188,3,0,0,0.0584,9,0,0,0.0897,0,Gb,C,1
+Random,Purple Disco Machine - Body Funk (Dom Dolla Remix).mp3,Rufus Du Sol - Brighter.mp3,0.144849041,0.051460987,9,1,0.755,0.0378,5,0,4.72E-05,0.0475,0,C,Ab,0
+Random,Snoop Dogg - Drop It LIke It's Hot (DEL30 remix).wav,Getter - Something New.mp3,0.079421889,0.366929302,1,1,0,0.219,6,0,0.103,0.0941,0,C,A,1
+Random,Disclosure - Holding On.mp3,Childish Gambino - This Is America (remix).mp3,0.020997867,5.64E-05,5,1,0.000246,0.333,10,0,0.174,0.0559,0,Eb,C,1
+Random,Snoop Dogg - Drop It LIke It's Hot (DEL30 remix).wav,Chris Lake - I Want You.mp3,0.073529318,0.015938032,1,1,0,0.219,11,0,0.351,0.0712,0,D,C,0
+Random,Rufus Du Sol - Brighter.mp3,A$AP Ferg - Work (DJZA Tech House Remix).wav,0.061060981,0.043353698,5,0,4.72E-05,0.0475,1,1,0,0.142,0,Ab,Bb,0
+Random,Polo & Pan - Zoom Zoom.mp3,Caribou - Can't Do Without You (Tale Of Us Remix).mp3,0.044390572,0.37441591,7,1,0.613,0.0367,9,0,0.82,0.0368,0,C,C,1
+Random,Ginuwine - Pony.mp3,Four Tet - Baby.mp3,0.09668798,0.117718351,8,0,0.0381,0.086,0,1,0.00325,0.248,0,F,B,1
+Random,Bad Bunny - Caro.mp3,Tchami - Missing You.mp3,0.061869419,0.587380552,0,1,0.000202,0.299,8,1,0.00899,0.0564,0,C,F,1
+Random,Beyoncé - Drunk in Love.mp3,The Weeknd - Snowchild.mp3,0.095738402,0.057187745,5,0,0.00104,0.0468,0,1,6.93E-05,0.112,0,Ab,C,0
+Random,T-Pain - I'm Sprung.mp3,RL Grime - Tell Me.mp3,0.009721361,0.400636057,0,0,0,0.108,5,0,0.489,0.0512,0,Eb,Ab,1
+Random,Cardi B - I Like It (Dillon Francis Remix).mp3,RL Grime - Pressure (Valentino Khan Remix).mp3,0.050759521,0.19165635,5,0,1.49E-05,0.149,2,1,0.284,0.174,0,F,F,1
+Random,Disclosure - Latch.mp3,Schoolboy Q - 5200.mp3,0.11557855,0.049218763,1,1,0.000193,0.0919,4,1,0,0.413,0,Db,G,0

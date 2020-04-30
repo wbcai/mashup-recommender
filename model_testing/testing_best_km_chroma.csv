@@ -1,0 +1,26 @@
+model,track_x,track_y,dist,bpm_inc,key_x,mode_x,instrumentalness_x,speechiness_x,key_y,mode_y,instrumentalness_y,speechiness_y,compatibility,djay_x,djay_y
+Key + BPM + Chroma,"Daft Punk - Harder, Better, Faster, Stronger.mp3",Justice - D.A.N.C.E.mp3,0.011667779,0.092554086,6,0,0.00263,0.144,6,0,0,0.278,1,G,A
+Key + BPM + Chroma,Four Tet - Baby.mp3,Four Tet - Planet.mp3,0.012651339,0.000653631,0,1,0.00325,0.248,0,1,0.862,0.0747,1,F,F
+Key + BPM + Chroma,Skrillex - Midnight Hour.mp3,Four Tet - Baby.mp3,0.013189717,0.008636429,0,1,0.000392,0.0685,0,1,0.00325,0.248,1,F,F
+Key + BPM + Chroma,Backstreet Boys - I Want It That Way.mp3,Getter - Something New.mp3,0.014975334,0.100136641,6,0,0,0.0261,6,0,0.103,0.0941,1,A,A
+Key + BPM + Chroma,Hannah Wants  - Rhymes.mp3,Disclosure - Holding On.mp3,0.015283224,0.016007548,5,1,0.00315,0.0766,5,1,0.000246,0.333,1,Bb,F
+Key + BPM + Chroma,Backstreet Boys - I Want It That Way.mp3,Kanye West - Flashing Lights.mp3,0.016009059,0.094482881,6,0,0,0.0261,6,0,0,0.0399,1,A,D
+Key + BPM + Chroma,Cardi B - I Like It (Dillon Francis Remix).mp3,Beyoncé - Drunk in Love.mp3,0.016949845,0.072363065,5,0,1.49E-05,0.149,5,0,0.00104,0.0468,1,F,Ab
+Key + BPM + Chroma,Zhu - My Life (Kyle Watson Remix).mp3,Drake - Get It Together.mp3,0.017505391,5.69E-05,5,0,0.789,0.0985,5,0,0.391,0.0514,1,Eb,Eb
+Key + BPM + Chroma,Kanye West - Father Stretch My Hands Pt. 1.mp3,Daft Punk - Aerodynamic.mp3,0.019888337,0.086781975,7,1,0,0.0549,7,1,0.861,0.0524,1,G,G
+Key + BPM + Chroma,Claptone - Cream.mp3,Bonobo - Bambro Koyo Ganda.mp3,0.020744317,0.038859745,1,1,0.911,0.0586,1,1,0.334,0.0572,1,Ab,Db
+Key + BPM + Chroma,RL Grime - Pressure (Valentino Khan Remix).mp3,Daft Punk - One More Time (Capital People Remix).mp3,0.020779346,0.024097524,2,1,0.284,0.174,2,1,0,0.133,1,F,D
+Key + BPM + Chroma,Marvin Gaye - Sexual Healing (Kygo Remix).mp3,T-Pain - I'm Sprung.mp3,0.024087447,0.009960896,0,0,0.0211,0.0427,0,0,0,0.108,1,Eb,Eb
+Key + BPM + Chroma,Ginuwine - Pony.mp3,Zhu - Exhale.mp3,0.024714179,0.014565846,8,0,0.0381,0.086,8,0,0.0807,0.124,1,B,E
+Key + BPM + Chroma,Dog Blood - BREAK LAW.mp3,Flume - Never Be Like You (Disclosure Remix).mp3,0.024774534,0.111024687,2,1,0.00205,0.0373,2,1,0.000925,0.23,1,D,D
+Key + BPM + Chroma,Jack U - Mind (Malaa remix).mp3,Denzel Curry - SPEEDBOAT.mp3,0.025568268,0.025211213,6,1,0.0197,0.0538,6,1,0,0.131,1,Gb,Db
+Key + BPM + Chroma,Kodak Black - Patty Cake.mp3,Skrillex - Face My Fears.m4a,0.026196675,0.051750891,1,0,0,0.19,1,0,0,0.0991,1,E,E
+Key + BPM + Chroma,Justice - D.A.N.C.E.mp3,Chrome Sparks - Wake.mp3,0.026511639,0.06177941,6,0,0,0.278,6,0,0.48,0.0409,1,A,D
+Key + BPM + Chroma,Drake - Nice For What.mp3,Flume - Holdin' On.mp3,0.02664395,0.037100374,8,1,0.000109,0.0705,8,1,0,0.119,1,Ab,Eb
+Key + BPM + Chroma,Travis Scott - goosebumps.m4a,Disclosure - When A Fire Starts To Burn.mp3,0.027957075,0.049222254,7,1,0,0.0484,7,1,0.00134,0.231,0,G,G
+Key + BPM + Chroma,Kanye West - Flashing Lights.mp3,Getter - Something New.mp3,0.028249609,0.005165691,6,0,0,0.0399,6,0,0.103,0.0941,1,D,A
+Key + BPM + Chroma,Zhu - My Life (Kyle Watson Remix).mp3,Rufus Du Sol - Brighter.mp3,0.028869545,0.043108857,5,0,0.789,0.0985,5,0,4.72E-05,0.0475,1,D,A
+Key + BPM + Chroma,"Daft Punk - Harder, Better, Faster, Stronger.mp3",Chrome Sparks - Wake.mp3,0.029252769,0.028984058,6,0,0.00263,0.144,6,0,0.48,0.0409,1,A,D
+Key + BPM + Chroma,Disclosure - When A Fire Starts To Burn.mp3,Kanye West - Father Stretch My Hands Pt. 1.mp3,0.029965936,0.096031409,7,1,0.00134,0.231,7,1,0,0.0549,0,G,G
+Key + BPM + Chroma,Justin Timberlake - Cry Me a River.mp3,Zhu - Exhale.mp3,0.030226011,0.055598814,8,0,0,0.176,8,0,0.0807,0.124,0,B,E
+Key + BPM + Chroma,Ginuwine - Pony.mp3,Justin Timberlake - Cry Me a River.mp3,0.030933454,0.040443869,8,0,0.0381,0.086,8,0,0,0.176,0,B,B
