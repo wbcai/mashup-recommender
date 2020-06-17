@@ -16,7 +16,7 @@ Thus, I was inspired to design a more sophisticated metric for evaluating harmon
 
 Environment variables `SPOTIFY_CID` and `SPOTIFY_SECRET` are required for obtaining data from the Spotify Web API. You must first create a Spotify user account (Premium or Free). Then go to the [Dashboard](https://developer.spotify.com/dashboard) page at the Spotify Developer website and, if necessary, log in. Accept the latest Developer Terms of Service to complete your account set up.
 
-At the Dashboard, you can now create a new Client ID (i.e., a new app). Once you fill in some general information and accept terms and conditions, you land in the app dashboard. Here you can see your Client ID and Client Secret. Set Client ID as your environment variable `SPOTIFY_CID` and the Client Secret as environment variable `SPOTIFY_SECRET`. For screenshots of these directions, please see `/figures`.
+At the Dashboard, you can now create a new Client ID (i.e., a new app). Once you fill in some general information and accept terms and conditions, you land in the app dashboard. Here you can see your Client ID and Client Secret. Set Client ID as your environment variable `SPOTIFY_CID` and the Client Secret as environment variable `SPOTIFY_SECRET`.
 
 ### Analyze audio files
 `run.py` orchestrates the extraction of harmonic and rhythmic data from audio files and the calculation of harmonic distances between every possible song pair. 
