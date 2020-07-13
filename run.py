@@ -37,7 +37,12 @@ if __name__ == '__main__':
 	features_df = extract_features(args.dir, new_tracks)
 
 	# Replace BPM with Spotify Tempo (if available)
-	features_df = verify_bpm(features_df)
+
+	try:
+		features_df = verify_bpm(features_df)
+		logger.info("BPM verified by Spotify API")
+	except:
+		logger.info("No Spotify data available for verification")
 
 	# Save features_df in /output
 	if past_features is not None:
